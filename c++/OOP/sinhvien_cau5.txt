@@ -1,0 +1,4 @@
+108 NguyenVan b BinhDuong CNTT 11THDH12 10
+121 NguyenVan d HaNoi CNSH 11THDH12 6
+231 NguyenVan h HungYen CNSH 11THDH12 12
+321 NguyenVan j VinhPhuc QTKD 11THDH12 8
